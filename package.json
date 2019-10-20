@@ -1,0 +1,10 @@
+{
+  "name": "conventional-github-releaser-demo",
+  "version": "0.0.0",
+  "author": "Mark <mark@remarkablemark.org>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "license": "MIT"
+}
