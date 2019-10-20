@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "author": "Mark <mark@remarkablemark.org>",
   "scripts": {
+    "release": "conventional-github-releaser -p angular"
   },
   "devDependencies": {
     "conventional-github-releaser": "3.1.3"
