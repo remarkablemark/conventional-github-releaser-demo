@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "author": "Mark <mark@remarkablemark.org>",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
     "conventional-github-releaser": "3.1.3"
